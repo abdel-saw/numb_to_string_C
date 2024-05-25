@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701202986 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\projets\numb_to_char\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
